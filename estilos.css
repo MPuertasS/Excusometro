@@ -1,0 +1,43 @@
+body {
+    margin: 10;
+    background-color: dimgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #222222;
+}
+
+h1 {
+    color: beige;
+    font-size: 3em;
+}
+header {
+    padding: 40px;
+    text-align: center;
+    background-color: #222222;
+    color: beige;
+}
+
+p {
+    line-height: 1.5;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+main{
+    padding: 30px;
+    margin:auto;
+    text-align: center;
+}
+
+section {
+    background-color: ghostwhite;
+    padding: 20px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+}
