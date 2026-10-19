@@ -8,7 +8,9 @@ body {
 }
 
 header {
-    background-color: #171717;
+    background-image: url("img/papeles.png");
+    background-size: cover;
+    background-position: center;
     color: #f2f0e8;
     text-align: center;
     padding: 60px 30px;
@@ -26,6 +28,7 @@ h1 {
     font-size: 4rem;
     font-weight: 700;
     margin: 10px 0;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
 }
 
 nav{
@@ -39,6 +42,7 @@ nav a{
     font-weight: 700;
     text-decoration: none;
     margin: 0 12px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
 
 nav a:hover{
@@ -53,7 +57,7 @@ main {
 
 section {
     background-color: #ffffff;
-    margin-bottom: 24px;
+    margin-bottom: 20px;
     padding: 30px;
 }
 
@@ -76,7 +80,6 @@ p {
 
 .excusa h3{
     color: #00b032;
-    margin-top: 0;
 }
 
 #estado{
