@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-    background-color: #f2f0e8;
+    background-image: url("img/papelfondo1.png");
     color: #171717;
     font-size: 20px;
     line-height: 1.6;
@@ -11,13 +11,14 @@ header {
     background-image: url("img/papeles.png");
     background-size: cover;
     background-position: center;
-    color: #f2f0e8;
+    color: #e8f2e9;
     text-align: center;
     padding: 60px 30px;
+    text-shadow: 1.5px 1.5px 1.5px rgba(0, 0, 0, 0.5);
 }
 
 header p {
-    color: #79ff3f;
+    color: #fafafa;
     font-size: 1rem;
     font-weight: 700;
     margin: 10px 0;
